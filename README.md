@@ -1,3 +1,12 @@
+---
+title: YouTube Video Studio
+emoji: 🎬
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+---
+
 # YouTube Video Studio
 
 Shaxsiy foydalanish uchun Streamlit + Python + FFmpeg asosidagi video generator.
